@@ -1,2 +1,2 @@
-# number-guessing-game
-"A fun Python number guessing game!"
+# Calculate age using JavaScript.
+
